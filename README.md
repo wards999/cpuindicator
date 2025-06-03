@@ -16,7 +16,8 @@ I wanted a very lightweight app as alternative tools I looked at used more CPU /
 (Right click / Settings once running in the task bar area)
 
 
-!(untitled.png)
+
+![Untitled](https://github.com/user-attachments/assets/9e80e2d8-68a6-473e-9b7d-7ceee3079592)
 
 ## Display Settings
 
