@@ -5,7 +5,7 @@
 
 I needed to be able to quickly check the cpu usage for my PC without opening Task Manager
 
-I wanted a very lightweight app as alternative tools I looked at used more CPU / RAM than I would have liked
+I wanted a lightweight app as alternative tools I looked at used more CPU / RAM than I would have liked for something so simple
 
 
 
