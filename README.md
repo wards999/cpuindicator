@@ -10,7 +10,7 @@ I wrote this app for 3 reasons:
 
 
 
-A quick review of the UI
+## A quick review of the UI
 
 (Right click / Settings once running in the task bar area)
 
@@ -18,35 +18,27 @@ A quick review of the UI
 
 
 
-Display Settings
+## Display Settings
 
 Do you want CPU activity displayed as a number, a colored square or a colored circle
 
 
-Horizontal Position Tweak
+Horizontal Position Tweak :  To move the icon sideways
 
-To move the icon sideways
+Vertical Position Tweak : To move the icon up and down
 
-Vertical Position Tweak
+Refresh Frequency :  How often to check CPU usage
 
-To move the icon up and down
+Size : How big do we want the text, square or cicrle
 
-Refresh Frequency
-
-How often to check CPU usage
-
-Size
-
-How big do we want the text, square or cicrle
-
-Square / Cicrle Settings
+## Square / Circle Settings
 
 Set colors for different CPU amounts
 
-Number Settings
+## Number Settings
 
 Set Font and font colors
 
-Start With Windows
+## Start With Windows
 
 Auto load at log-on
