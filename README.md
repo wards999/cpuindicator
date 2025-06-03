@@ -1,5 +1,5 @@
 
-# A tiny Windows 10 / 11 taskbar icon to show CPU activity
+# A small Windows 10 / 11 taskbar icon to show CPU activity
 
 
 
