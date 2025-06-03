@@ -1,5 +1,5 @@
 
-A tiny Windows 11 taskbar icon to show CPU activity
+# A tiny Windows 11 taskbar icon to show CPU activity
 
 
 I wrote this app for 3 reasons:
