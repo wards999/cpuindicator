@@ -1,12 +1,13 @@
 
-# A tiny Windows 11 taskbar icon to show CPU activity
+# A tiny Windows 10 / 11 taskbar icon to show CPU activity
 
 
-I wrote this app for 3 reasons:
 
-1) I want to be able to quickly check the cpu usage for a remote PC wihtout opening Task Manager
-2) I want to be able to quickly check the cpu usage for a local fanless PC without opening Task Manager
-3) I wanted a very lightweight app as others tools I looked at used more CPU / RAM than I would have liked
+I needed to be able to quickly check the cpu usage for my PC without opening Task Manager
+
+I wanted a very lightweight app as alternative tools I looked at used more CPU / RAM than I would have liked
+
+
 
 
 
