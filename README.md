@@ -30,7 +30,7 @@ Vertical Position Tweak : To move the icon up and down
 
 Refresh Frequency :  How often to check CPU usage
 
-Size : How big do we want the text, square or cicrle
+Size : How big do you want the text, square or cicrle
 
 ## Square / Circle Settings
 
