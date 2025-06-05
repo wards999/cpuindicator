@@ -2,12 +2,37 @@
 # A small Windows 10 / 11 taskbar icon to show CPU activity
 
 
-
-I needed to be able to quickly check the cpu usage for my PC without opening Task Manager
-
-I wanted a lightweight app as alternative tools I looked at used more CPU / RAM than I would have liked for something so simple
+Problem:
 
 
+- I needed to be able to quickly check the cpu usage for my PC without opening Task Manager
+- I wanted a super lightweight app taking up very little CPU / RAM
+
+
+Solution:
+Write a small and simple app thats shows CPU use as an icon to the taskbar 
+
+
+I use a Performance Counter:
+
+
+        PerformanceCounter cpuCounter = new PerformanceCounter();
+
+        public float GetProcessorData()
+        {
+            cpuCounter.CategoryName = "Processor Information";
+            cpuCounter.CounterName = "% Processor Utility";
+            cpuCounter.InstanceName = "_Total";
+            cpuCounter.ReadOnly = true;
+            return cpuCounter.NextValue();
+        }
+
+to get the current CPU usage and then Bitmap and Graphics to render the icon:
+
+
+  
+        static private Bitmap bitmapText = new Bitmap(16, 16);
+        Graphics gTray2 = Graphics.FromImage(bitmapText);
 
 
 
